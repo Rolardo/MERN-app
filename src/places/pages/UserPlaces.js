@@ -19,7 +19,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Empire State Building",
+    title: "Colima",
     description: "One of the most famous sky scrapers in the world",
     imageUrl:
       "https://guias-viajar.com/estados-unidos/wp-content/uploads/sites/4/2021/11/nueva-york-empire-state-007.jpg",
